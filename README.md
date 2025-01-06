@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m passionate about uncovering actionable insig
 
 ## 📂 **Featured Projects**
 
-### 1. Click here [GoodCabs Performance Analysis](https://lnkd.in/gySgns8X) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjAwZTg0MjEtYTdiNi00ZDUyLTgwOTgtMzMxNWFlN2QyYmI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+### 1. Click here [GoodCabs Performance Analysis] [Linkedin](https://www.linkedin.com/posts/ujjalmondal_powerbi-dataanalytics-goodcabs-activity-7281885894343606272-IhuO?utm_source=share&utm_medium=member_desktop) | [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjAwZTg0MjEtYTdiNi00ZDUyLTgwOTgtMzMxNWFlN2QyYmI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 A deep dive into *GoodCabs*, a tier-2 city cab service.
 
 #### Project Overview
